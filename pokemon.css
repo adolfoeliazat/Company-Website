@@ -42,13 +42,13 @@ text-align: center;
   text-align:center;
 }
 .parallax1{
-  background:url('../Images/mountain1.jpg') no-repeat center center fixed;
+  background:url('mountain1.jpg') no-repeat center center fixed;
   height:582px;
   text-align: center;
   width:1280px;
 }
 .parallax2{
-background:url('../Images/mountain2.jpeg') no-repeat center center fixed;;
+background:url('mountain2.jpeg') no-repeat center center fixed;;
   text-align:center;
   height:852px;
 width:1280px;
