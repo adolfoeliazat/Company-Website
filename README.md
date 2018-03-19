@@ -1,4 +1,4 @@
-# Pokemon Company Website Template
+# Random Company Website Template
 
 ## Basic info
 
