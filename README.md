@@ -8,4 +8,4 @@ Random company website template beautifully designed in Bootstrap which is also 
 
 ## Check it out 
 
-<a href='https://jamesgeorge007.github.io/Pokemon-Company-Website-Template'>  Click Here </a>
+<a href='https://jamesgeorge007.github.io/Company-Website/'>  Click Here </a>
